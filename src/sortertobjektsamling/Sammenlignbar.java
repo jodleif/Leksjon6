@@ -6,5 +6,5 @@ package sortertobjektsamling;
 public interface Sammenlignbar
 {
 	public boolean lik(Sammenlignbar obj);
-	public boolean mindreEnn(Sammenlignbar obj);
+	public boolean størreEnn(Sammenlignbar obj);
 }
